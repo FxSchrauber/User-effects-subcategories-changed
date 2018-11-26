@@ -1,10 +1,11 @@
-﻿# Incomplete effect list IN PROGRESS
+# Incomplete effect list IN PROGRESS
 
 
-## Category "Key" ; Sub Category "Key Extras"  
+### Category "Key"
+### Sub Category "Key Extras"  
 
-|EFFECT               |FILE NAME        |  |Previous name |Previous file    |
-|:------------------- |:--------------- |:-|:------------ |:--------------- |
+|        EFFECT       |    FILE         |  |Previous name | Previous file   |
+|:------------------: |:--------------: |:-|:-----------: |:--------------: |
 |ALE ChromaKey        |AleChromaKey.fx  |  |Ale_ChromaKey |ALE_ChromaKey.fx |
 |Chromakey plus       |ChromakeyPlus.fx |  |    \*        |     \*          |
 |Chromakey with DVE   |ChromakeyDVE.fx  |  |    \*        |     \*          |
