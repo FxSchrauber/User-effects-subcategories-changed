@@ -18,7 +18,9 @@
 |Matte key            |MatteKey.fx      |  |    \*        |     \*          |
 |Simple chromakey     |SimpleCkey.fx    |  |    \*        |     \*          |
   
-\* Identical to the current effect 
+Footnote, explanation:  
+\* This star means that the name is identical to the corresponding name of the current effect.
+
 
 
 
