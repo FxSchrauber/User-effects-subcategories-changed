@@ -3,7 +3,7 @@
 
 ## Category "Key" ; Sub Category "Key Extras"
 
-|EFFECT               |FILE NAME        |Old effect name |Old filename     |GitHub category 
+|EFFECT               |FILE NAME        |Old effect name |Old filename     |
 |:------------------- |:--------------- |:-------------- |:--------------- |
 |ALE ChromaKey        |AleChromaKey.fx  |Ale_ChromaKey   |ALE_ChromaKey.fx |
 |Chromakey plus       |ChromakeyPlus.fx |                |                 |
@@ -15,7 +15,7 @@
 |Lumakey and matte    |LumaMatte.fx     |                |                 |
 |Lumakey with DVE     |LumakeyDVE.fx    |                |                 |
 |Matte key            |MatteKey.fx      |                |                 |
-|Simple chromakey     |SimpleCkey.fx    |                |                 |KEYING 
+|Simple chromakey     |SimpleCkey.fx    |                |                 |
 
 
 
