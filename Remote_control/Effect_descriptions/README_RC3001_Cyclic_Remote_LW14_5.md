@@ -33,11 +33,11 @@ The same applies to "Start delay", for which, however, only a static value makes
 
 - Note 4, Export: 
    If the "Setting Display Unit" was used for the effect setting, then deactivate it for the final export.
--  Note 4b, when using the export option "Marked section": 
-  * The export always starts at the beginning of the interval curve. 
+  - Note 4b, when using the export option "Marked section": 
+    The export always starts at the beginning of the interval curve. 
     This may differ from the playback if the starting point of the "Marked section" has been positioned 
     to the right of the beginning of the effect in the timeline. (interval phase shift between playback and export). 
-  * "Start Delay" slider: Avoid positioning the "Marked section" within the effect time. 
+  - "Start Delay" slider: Avoid positioning the "Marked section" within the effect time. 
     If this is not possible, please leave "Start Delay" at 0.
 
 - Note 5, Cycle frames with decimal places : 
@@ -46,19 +46,19 @@ at a position to remain synchronized with the set value.
 
 
 ### Update (newest first):
-29 Nov 2018 by LW user schrauber: Changed subcategory from "Remote Control" to "Remote control".
-19 Nov 2018 by LW user schrauber: Changed effect name 
+29 Nov 2018 by LW user schrauber: Changed subcategory from "Remote Control" to "Remote control".  
+19 Nov 2018 by LW user schrauber: Changed effect name  
 
-10 Nov 2018 by LW user schrauber: 
-Simplification of the effect settings
-Interval setting is now switchable between frames and seconds.
-Reduction of GPU load.
-The quality of the signal transmission should now be independent of the GPU/OS.                                   
+10 Nov 2018 by LW user schrauber:  
+Simplification of the effect settings.  
+Interval setting is now switchable between frames and seconds.  
+Reduction of GPU load.  
+The quality of the signal transmission should now be independent of the GPU/OS.  
                                  
-3. May 2018 by LW user schrauber:
-Unnecessary sampler settings removed.
-Subcategory defined, effect description and other data relevant to the user repository added.
+3. May 2018 by LW user schrauber:  
+Unnecessary sampler settings removed.  
+Subcategory defined, effect description and other data relevant to the user repository added.  
 
-18 Feb 2017 by LW user schrauber: 
-Status level of the blue transmission channel updated (standardization with the other remote control effects)
+18 Feb 2017 by LW user schrauber:  
+Status level of the blue transmission channel updated (standardization with the other remote control effects)  
 
