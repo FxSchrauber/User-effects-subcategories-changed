@@ -29,10 +29,9 @@ Filename: RC3001_Cyclic_Remote_LW14_5.fx
    
 ![Preview]( https://raw.githubusercontent.com/FxSchrauber/Images_for_effects_repository/master/RC/RC_3001_cyclic_control_Nov2018.png)
 
-//
-//   ***********  WARNING: THIS EFFECT REQUIRES LIGHTWORKS 14.5 OR BETTER  ***********
-//
-// This is a version of the master controller for the remote control user effects subsystem
+**WARNING: THIS EFFECT REQUIRES LIGHTWORKS 14.5 OR BETTER
+
+This is a version of the master controller for the remote control user effects subsystem
 // adds the ability to cycle the values of the effects channels.
 // This effect outputs the remote control signal on channel 3001.
 //
