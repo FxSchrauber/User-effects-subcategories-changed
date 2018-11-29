@@ -48,9 +48,10 @@
 //
 // 
 // Update (newest first):
-// 29. Nov, 2018 by LW user schrauber: Changed effect name 
+// 29 Nov 2018 by LW user schrauber: Changed subcategory from "Remote Control" to "Remote control".
+// 19 Nov 2018 by LW user schrauber: Changed effect name 
 //
-// 10. Nov, 2018 by LW user schrauber: 
+// 10 Nov 2018 by LW user schrauber: 
 // Simplification of the effect settings
 // Interval setting is now switchable between frames and seconds.
 // Reduction of GPU load.
@@ -75,7 +76,7 @@ int _LwksEffectInfo
    string EffectGroup = "GenericPixelShader";
    string Description = "RC 3001, cyclic control, B";
    string Category    = "User";
-   string SubCategory = "Remote Control";
+   string SubCategory = "Remote control";
    string Notes       = "Version Nov. 2018 / THIS EFFECT REQUIRES LIGHTWORKS 14.5 OR BETTER";
 > = 0;
 

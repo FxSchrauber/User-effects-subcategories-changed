@@ -72,7 +72,6 @@ This is a version of the master controller for the remote control user effects s
 // 
 // Update (newest first):
 // 29 Nov 2018 by LW user schrauber: Changed subcategory from "Remote Control" to "Remote control".
-// 29 Nov 2018 by LW user schrauber: Changed effect name
 // 19 Nov 2018 by LW user schrauber: Changed effect name 
 //
 // 10 Nov 2018 by LW user schrauber: 
