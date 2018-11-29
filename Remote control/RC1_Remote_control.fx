@@ -1,5 +1,4 @@
-// @Released 2018-06-24
-// Insignificant Released 2018-10-22 (effect Description)
+// @Released 2018-11-29
 // @Author schrauber
 // @Created 2017-01-31
 // @see https://www.lwks.com/media/kunena/attachments/348533/RC_1_Five_channel_remote.png
@@ -19,14 +18,11 @@
 // attenuate or invert the individual control channels.
 // Each channel can be set directly, and the remote control signal may also be limited.
 //
-// Update:
+// Update (newest first):
+// 28 Nov 2018  by LW user schrauber: Changed subcategory from "Remote Control" to "Remote control".
 // 24 June 2018  by LW user schrauber: Compatibility with LWKS 14.5 GPU precision settings
 // 24 June 2018  by LW user schrauber: other compatibility improvements
 // 26 April 2018 by LW user schrauber: potentially problematic sampler settings removed
-//
-// Insignificant updates at different times:
-// Too long effect name corrected, subcategory defined, effect description
-// and other data relevant to the user repository added.
 //--------------------------------------------------------------//
 
 
@@ -35,7 +31,7 @@ int _LwksEffectInfo
    string EffectGroup = "GenericPixelShader";
    string Description = "RC 1, Five channel remote"; 
    string Category    = "User"; 
-   string SubCategory = "Remote Control";  
+   string SubCategory = "Remote control";  
 > = 0;
 
 
