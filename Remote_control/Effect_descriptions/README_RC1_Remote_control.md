@@ -19,3 +19,6 @@ Each channel can be set directly, and the remote control signal may also be limi
 24 June 2018  by LW user schrauber: Compatibility with LWKS 14.5 GPU precision settings  
 24 June 2018  by LW user schrauber: other compatibility improvements  
 26 April 2018 by LW user schrauber: potentially problematic sampler settings removed  
+
+ ---
+ *[Back to overview and download](../README.md)*
