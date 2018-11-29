@@ -1,4 +1,4 @@
-// @Released 2018-11-19
+// @Released 2018-11-29
 // @Author schrauber
 // @Created 2017-02-13
 // @see https://raw.githubusercontent.com/FxSchrauber/Images_for_effects_repository/master/RC/RC_3001_cyclic_control_Nov2018.png
@@ -36,18 +36,19 @@
 // Note 4, Export: 
 //    If the "Setting Display Unit" was used for the effect setting, then deactivate it for the final export.
 // Note 4b, when using the export option "Marked section": 
-//   * In this case, let "Start Delay" be set to 0 to avoid unexpected behavior.
 //   * The export always starts at the beginning of the interval curve. 
-//     This may differ from the playback if the starting point of the "Marked section" 
-//     is not the beginning of the segment (interval phase shift between playback and export). 
+//     This may differ from the playback if the starting point of the "Marked section" has been positioned 
+//     to the right of the beginning of the effect in the timeline. (interval phase shift between playback and export). 
+//   * "Start Delay" slider: Avoid positioning the "Marked section" within the effect time. 
+//     If this is not possible, please leave "Start Delay" at 0.
 //
 // Note 5, Cycle frames with decimal places : 
 // The cycle progress will occasionally pause for 1 frames
 // at a position to remain synchronized with the set value.
 //
 // 
-// Update:
-// 19. Nov, 2018 by LW user schrauber: Changed effect name 
+// Update (newest first):
+// 29. Nov, 2018 by LW user schrauber: Changed effect name 
 //
 // 10. Nov, 2018 by LW user schrauber: 
 // Simplification of the effect settings
