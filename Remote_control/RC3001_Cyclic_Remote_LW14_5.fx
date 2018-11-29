@@ -39,7 +39,7 @@
 //   * The export always starts at the beginning of the interval curve. 
 //     This may differ from the playback if the starting point of the "Marked section" has been positioned 
 //     to the right of the beginning of the effect in the timeline. (interval phase shift between playback and export). 
-//   * "Start Delay" slider: Avoid positioning the "Marked section" within the effect time. 
+//   * Note 4c, "Start Delay" slider: Avoid positioning the "Marked section" within the effect time. 
 //     If this is not possible, please leave "Start Delay" at 0.
 //
 // Note 5, Cycle frames with decimal places : 
@@ -49,7 +49,7 @@
 // 
 // Update (newest first):
 // 29 Nov 2018 by LW user schrauber: Changed subcategory from "Remote Control" to "Remote control".
-// 19 Nov 2018 by LW user schrauber: Changed effect name 
+// 19 Nov 2018 by LW user schrauber: Changed effect name from "RC 3001, cyclic control" to" RC 3001, cyclic control, B"
 //
 // 10 Nov 2018 by LW user schrauber: 
 // Simplification of the effect settings
