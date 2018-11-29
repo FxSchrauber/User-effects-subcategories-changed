@@ -1,8 +1,14 @@
 # Overview of remote control effects:
+#### Download:
+[This zip file](https://github.com/fx-planet/lwks-fx-bundle/archive/master.zip) 
+contains all current user effects. Please choose from this the desired effect files.  
 
-**Download:** [This zip file](https://github.com/fx-planet/lwks-fx-bundle/archive/master.zip) 
-contains all current user effects. Please choose from this the desired effect files.
+---
+#### Simple routing example:
+In the simplest case you need at least two effects:  
+![Routing](https://www.lwks.com/media/kunena/attachments/348533/temp08234263127.PNG)
 
+---
 
 ## Effects that can remotely control some other effects:
 
