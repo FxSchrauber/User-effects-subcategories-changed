@@ -13,7 +13,7 @@
 // This effect outputs the remote control signal on channel 3001.
 //
 // In particular, if there are problems with the effect, I ask for feedback.
-// The effect should theoretically work across platforms, but until 10.11.2018 only a test on Windows was possible.
+// The effect should theoretically work across platforms, but until 29.11.2018 only a test on Windows was possible.
 //
 //
 // Details: 
