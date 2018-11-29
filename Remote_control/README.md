@@ -1,4 +1,7 @@
-# Remote control effects
+# Overview of remote control effects:
+
+**Download:** [This zip file](https://github.com/fx-planet/lwks-fx-bundle/archive/master.zip) 
+contains all current user effects. Please choose from this the desired effect files.
 
 
 ## Effects that can remotely control some other effects:
