@@ -61,4 +61,7 @@ at a position to remain synchronized with the set value.
 
 - 18 Feb 2017 by LW user schrauber:  
     Status level of the blue transmission channel updated (standardization with the other remote control effects)  
+    
+ ---
+ *[Back to overview and download](../README.md)*
 
