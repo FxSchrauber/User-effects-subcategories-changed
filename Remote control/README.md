@@ -29,17 +29,17 @@ Filename: RC3001_Cyclic_Remote_LW14_5.fx
    
 ![Preview]( https://raw.githubusercontent.com/FxSchrauber/Images_for_effects_repository/master/RC/RC_3001_cyclic_control_Nov2018.png)
 
-**WARNING: THIS EFFECT REQUIRES LIGHTWORKS 14.5 OR BETTER
+**WARNING: THIS EFFECT REQUIRES LIGHTWORKS 14.5 OR BETTER**
 
 This is a version of the master controller for the remote control user effects subsystem
 adds the ability to cycle the values of the effects channels.
 This effect outputs the remote control signal on channel 3001.
 
 In particular, if there are problems with the effect, I ask for feedback.
-The effect should theoretically work across platforms, but until 10.11.2018 only a test on Windows was possible.
+The effect should theoretically work across platforms, but until 29.11.2018 only a test on Windows was possible.
 
 
-###Details: 
+### Details: 
 Note 1, Assistent effect for correct adjustment:  
 In particular, if a different cyclic waveform is to be set,
 then it is recommended to add the effect "Setting Display Unit" at the end of the routing.
@@ -70,7 +70,7 @@ The cycle progress will occasionally pause for 1 frames
 at a position to remain synchronized with the set value.
 
 
-###Update (newest first):
+### Update (newest first):
 29 Nov 2018 by LW user schrauber: Changed subcategory from "Remote Control" to "Remote control".
 19 Nov 2018 by LW user schrauber: Changed effect name 
 
