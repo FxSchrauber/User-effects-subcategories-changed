@@ -4,7 +4,8 @@
 ### Sub Category "Remote control" 
 
 
-## Remote controls
+
+## Remote controls:
 These effects control other effects.
 The output of these effects sends the RC signal.
 
